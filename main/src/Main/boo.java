@@ -7,10 +7,6 @@ class Homework {
     public static void main(String[] args) {
     System.out.print(Arrays.toString(evenArray(10)));
 
-    Person person = new Person("igor", 25, 177, false);
-
-    Person person1= new Person("igor", 177, true);
-
     //number1 and number2
         //1 and 2 => sum
         //1.05 and 1.06 => multi
