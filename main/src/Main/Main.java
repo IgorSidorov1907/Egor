@@ -17,15 +17,6 @@ import java.util.Scanner;
             System.out.println(array[i]);
         }
 
-        //примитивные типы данных - числа, символы, логичиеские (true or false)
-
-        //ссылочные типы данных - строка и объекты
-
-        //Hello - 0
-        //World! - 1
-        //How - 2
-        //...
-        //Array - набор однотипный данных, упорядоченными, каждый из элементов имеет свой уникальный индекс
     }
     public static void main(String[] args)
     {
